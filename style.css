@@ -1,0 +1,52 @@
+h1 {
+	text-align: center;
+	margin-top: 7%;
+}
+
+#boxes {
+	padding: 100px;
+	
+}
+
+.box1 {
+	background-color: gray;
+	height: 150px;
+	margin: 2%;
+}
+
+.box2 {
+	background-color: gray;
+	height: 150px;
+	margin: 2%;
+}
+
+.box3 {
+	background-color: gray;
+	height: 150px;
+	margin: 2%;
+}
+
+.sm-box1 {
+	margin-left: 75%;
+	height: 30px;
+	background-color: green;
+	text-align: center;
+}
+
+.sm-box2 {
+	margin-left: 75%;
+	height: 30px;
+	background-color: yellow;
+	text-align: center;
+}
+
+.sm-box3 {
+	margin-left: 75%;
+	height: 30px;
+	background-color: red;
+	text-align: center;
+}
+
+p {
+	padding-left: 2%;
+}
